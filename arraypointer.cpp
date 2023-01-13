@@ -19,6 +19,7 @@ void evenodd(int arr[], int n)
     }
     cout << "the number of odds is " << oddcount << endl;
     cout << "the number of even is " << evencount << endl;
+    // ab  m edit kr ha 
 }
 
 int main()
